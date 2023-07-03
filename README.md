@@ -1,2 +1,2 @@
-# ParralaxAnimeList
+# Parralax
  
